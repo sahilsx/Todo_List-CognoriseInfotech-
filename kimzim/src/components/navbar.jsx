@@ -7,7 +7,7 @@ const Navbar = () => {
     <span className='font-bold text-xl mx-8 '>KIMZIM</span>
    </div>
    <ul className="flex gap mx-9">
-  <li className="cursor-pointer hover:font-bold transition-all"> Your Task</li>
+ 
   <li className="cursor-pointer hover:font-bold transition-all"> About</li>
 
 
